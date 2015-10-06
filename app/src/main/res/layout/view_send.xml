@@ -10,5 +10,10 @@
         android:text="Medium Text"
         android:id="@+id/text_message"
         android:layout_gravity="right"
-        android:layout_marginLeft="50dp" />
+        android:layout_marginLeft="50dp"
+        android:background="@drawable/send"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="5dp" />
 </LinearLayout>
